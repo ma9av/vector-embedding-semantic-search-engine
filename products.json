@@ -1,0 +1,322 @@
+[
+    {
+        "id": "1",
+        "title": "Vintage Handcrafted Wooden Table",
+        "description": "A rustic, hand-carved wooden table with intricate designs, perfect for home decor.",
+        "category": "Furniture",
+        "price": 4599,
+        "image_url": "https://via.placeholder.com/100"
+    },
+    {
+        "id": "2",
+        "title": "Organic Aloe Vera Gel",
+        "description": "Pure aloe vera gel for soothing skin irritation, acne scars, and moisturizing.",
+        "category": "Beauty",
+        "price": 249,
+        "image_url": "https://via.placeholder.com/100"
+    },
+    {
+        "id": "3",
+        "title": "Handmade Leather Journal",
+        "description": "A premium leather-bound journal, ideal for writing, sketching, or journaling.",
+        "category": "Stationery",
+        "price": 499,
+        "image_url": "https://via.placeholder.com/100"
+    },
+    {
+        "id": "4",
+        "title": "Electric Smart Toothbrush",
+        "description": "Smart toothbrush with multiple cleaning modes, rechargeable with long-lasting battery.",
+        "category": "Health & Personal Care",
+        "price": 899,
+        "image_url": "https://via.placeholder.com/100"
+    },
+    {
+        "id": "5",
+        "title": "Portable Solar Charger",
+        "description": "Eco-friendly, foldable solar charger for phones, tablets, and other devices.",
+        "category": "Electronics",
+        "price": 799,
+        "image_url": "https://via.placeholder.com/100"
+    },
+    {
+        "id": "6",
+        "title": "Designer Canvas Sneakers",
+        "description": "Stylish canvas sneakers with a unique design, perfect for casual wear.",
+        "category": "Footwear",
+        "price": 1299,
+        "image_url": "https://via.placeholder.com/100"
+    },
+    {
+        "id": "7",
+        "title": "Antique Brass Table Lamp",
+        "description": "Vintage-style brass table lamp with a dimming feature for a cozy atmosphere.",
+        "category": "Home & Living",
+        "price": 899,
+        "image_url": "https://via.placeholder.com/100"
+    },
+    {
+        "id": "8",
+        "title": "Eco-friendly Yoga Mat",
+        "description": "Non-toxic, biodegradable yoga mat for comfort and support during practice.",
+        "category": "Sports & Outdoors",
+        "price": 599,
+        "image_url": "https://via.placeholder.com/100"
+    },
+    {
+        "id": "9",
+        "title": "Premium Rice Cooker",
+        "description": "Automatic rice cooker with multiple settings for perfectly cooked rice every time.",
+        "category": "Home Appliances",
+        "price": 1599,
+        "image_url": "https://via.placeholder.com/100"
+    },
+    {
+        "id": "10",
+        "title": "Luxury Saffron Spice",
+        "description": "Premium quality saffron strands, harvested from the best farms for a rich flavor.",
+        "category": "Grocery",
+        "price": 1299,
+        "image_url": "https://via.placeholder.com/100"
+    },
+    {
+        "id": "11",
+        "title": "Electric Kettle with Temperature Control",
+        "description": "Modern electric kettle with variable temperature settings and quick boiling technology.",
+        "category": "Kitchen",
+        "price": 799,
+        "image_url": "https://via.placeholder.com/100"
+    },
+    {
+        "id": "12",
+        "title": "Smart Thermostat for Home",
+        "description": "Smart thermostat that helps reduce energy consumption by controlling home temperature.",
+        "category": "Home Improvement",
+        "price": 1499,
+        "image_url": "https://via.placeholder.com/100"
+    },
+    {
+        "id": "13",
+        "title": "Bluetooth Headphones with Noise Cancellation",
+        "description": "High-quality Bluetooth headphones with active noise cancellation for a better sound experience.",
+        "category": "Electronics",
+        "price": 2499,
+        "image_url": "https://via.placeholder.com/100"
+    },
+    {
+        "id": "14",
+        "title": "Premium Cocktail Shaker Set",
+        "description": "Complete cocktail shaker set with tools and accessories for making professional cocktails.",
+        "category": "Barware",
+        "price": 699,
+        "image_url": "https://via.placeholder.com/100"
+    },
+    {
+        "id": "15",
+        "title": "Pet Grooming Kit",
+        "description": "Complete pet grooming kit with combs, brushes, and nail clippers for a professional grooming experience.",
+        "category": "Pet Care",
+        "price": 499,
+        "image_url": "https://via.placeholder.com/100"
+    },
+    {
+        "id": "16",
+        "title": "Artisanal Ceramic Coffee Mugs (Set of 2)",
+        "description": "Handcrafted ceramic mugs perfect for enjoying coffee, tea, or hot chocolate.",
+        "category": "Kitchenware",
+        "price": 799,
+        "image_url": "https://via.placeholder.com/100"
+    },
+    {
+        "id": "17",
+        "title": "Handmade Woolen Scarf",
+        "description": "Soft, cozy woolen scarf, handwoven with intricate patterns and vibrant colors.",
+        "category": "Accessories",
+        "price": 299,
+        "image_url": "https://via.placeholder.com/100"
+    },
+    {
+        "id": "18",
+        "title": "Stainless Steel Cutlery Set (6 pieces)",
+        "description": "Elegant stainless steel cutlery set with a sleek, modern design for dinner parties.",
+        "category": "Dining",
+        "price": 699,
+        "image_url": "https://via.placeholder.com/100"
+    },
+    {
+        "id": "19",
+        "title": "Leather Crossbody Bag",
+        "description": "Genuine leather crossbody bag with adjustable strap and multiple compartments.",
+        "category": "Fashion",
+        "price": 1299,
+        "image_url": "https://via.placeholder.com/100"
+    },
+    {
+        "id": "20",
+        "title": "Smart Home Security Camera",
+        "description": "HD smart security camera with motion detection, night vision, and mobile app connectivity.",
+        "category": "Electronics",
+        "price": 2499,
+        "image_url": "https://via.placeholder.com/100"
+    },
+    {
+        "id": "21",
+        "title": "Matte Black Stainless Steel Chef Knife Set",
+        "description": "Professional kitchen knife set with precision blades, ergonomic handles, and modern matte black finish.",
+        "category": "Kitchenware",
+        "price": 2399,
+        "image_url": "https://via.placeholder.com/100"
+    },
+    {
+        "id": "22",
+        "title": "Eco-Friendly Bamboo Toothbrush Pack",
+        "description": "Set of biodegradable bamboo toothbrushes with soft bristles for gentle cleaning.",
+        "category": "Health & Personal Care",
+        "price": 299,
+        "image_url": "https://via.placeholder.com/100"
+    },
+    {
+        "id": "23",
+        "title": "Noise Cancelling Over-Ear Headphones",
+        "description": "High-fidelity headphones with active noise cancellation and memory foam ear cups for comfort.",
+        "category": "Electronics",
+        "price": 3499,
+        "image_url": "https://via.placeholder.com/100"
+    },
+    {
+        "id": "24",
+        "title": "Handloom Cotton Saree with Zari Border",
+        "description": "Traditional Indian saree, woven by artisans with pure cotton and intricate zari work.",
+        "category": "Clothing",
+        "price": 1899,
+        "image_url": "https://via.placeholder.com/100"
+    },
+    {
+        "id": "25",
+        "title": "Convertible Laptop Backpack",
+        "description": "Water-resistant backpack that transforms into a briefcase, with padded laptop compartment.",
+        "category": "Accessories",
+        "price": 1299,
+        "image_url": "https://via.placeholder.com/100"
+    },
+    {
+        "id": "26",
+        "title": "Smart Wi-Fi LED Bulb with Voice Control",
+        "description": "Dimmable smart bulb compatible with Alexa and Google Home, customizable colors.",
+        "category": "Home Improvement",
+        "price": 599,
+        "image_url": "https://via.placeholder.com/100"
+    },
+    {
+        "id": "27",
+        "title": "Cast Iron Skillet",
+        "description": "Heavy-duty cast iron skillet perfect for searing, baking, and roasting.",
+        "category": "Kitchen",
+        "price": 899,
+        "image_url": "https://via.placeholder.com/100"
+    },
+    {
+        "id": "28",
+        "title": "Indoor Air Purifier",
+        "description": "HEPA filter air purifier to remove dust, pollen, and smoke from indoor spaces.",
+        "category": "Home Appliances",
+        "price": 3499,
+        "image_url": "https://via.placeholder.com/100"
+    },
+    {
+        "id": "29",
+        "title": "Organic Turmeric Powder",
+        "description": "Golden spice powder sourced from organic farms, known for its health benefits.",
+        "category": "Grocery",
+        "price": 199,
+        "image_url": "https://via.placeholder.com/100"
+    },
+    {
+        "id": "30",
+        "title": "Portable Camping Hammock",
+        "description": "Lightweight, foldable hammock made of durable parachute nylon for outdoor adventures.",
+        "category": "Outdoor",
+        "price": 799,
+        "image_url": "https://via.placeholder.com/100"
+    },
+    {
+        "id": "31",
+        "title": "Luxury Silk Bedsheet Set",
+        "description": "Soft, high-thread-count silk bedsheets with a subtle sheen, perfect for premium bedrooms.",
+        "category": "Home & Living",
+        "price": 2999,
+        "image_url": "https://via.placeholder.com/100"
+    },
+    {
+        "id": "32",
+        "title": "Touchscreen Winter Gloves",
+        "description": "Thermal gloves designed for cold weather with conductive fingertips for touchscreen use.",
+        "category": "Fashion",
+        "price": 499,
+        "image_url": "https://via.placeholder.com/100"
+    },
+    {
+        "id": "33",
+        "title": "Smart Fitness Band",
+        "description": "Wearable fitness tracker with step counter, heart rate monitor, and sleep tracking.",
+        "category": "Electronics",
+        "price": 1599,
+        "image_url": "https://via.placeholder.com/100"
+    },
+    {
+        "id": "34",
+        "title": "Luxury Leather Office Chair",
+        "description": "Ergonomic office chair with genuine leather finish, lumbar support, and adjustable height.",
+        "category": "Furniture",
+        "price": 5499,
+        "image_url": "https://via.placeholder.com/100"
+    },
+    {
+        "id": "35",
+        "title": "Aromatic Soy Wax Candle Set",
+        "description": "Set of 4 handmade soy wax candles with calming lavender, vanilla, and citrus fragrances.",
+        "category": "Home Decor",
+        "price": 699,
+        "image_url": "https://via.placeholder.com/100"
+    },
+    {
+        "id": "36",
+        "title": "Anti-Theft Travel Backpack",
+        "description": "Secure backpack with hidden zippers, USB charging port, and water-resistant material.",
+        "category": "Accessories",
+        "price": 1399,
+        "image_url": "https://via.placeholder.com/100"
+    },
+    {
+        "id": "37",
+        "title": "All-Weather Running Shoes",
+        "description": "Durable running shoes with water-resistant upper and cushioned sole for all terrains.",
+        "category": "Footwear",
+        "price": 1999,
+        "image_url": "https://via.placeholder.com/100"
+    },
+    {
+        "id": "38",
+        "title": "Premium Beard Grooming Kit",
+        "description": "Complete grooming set with beard oil, balm, comb, and trimmer for the modern man.",
+        "category": "Men's Grooming",
+        "price": 999,
+        "image_url": "https://via.placeholder.com/100"
+    },
+    {
+        "id": "39",
+        "title": "Adjustable Laptop Stand",
+        "description": "Ergonomic laptop stand with adjustable height and angle, made of durable aluminum.",
+        "category": "Office Supplies",
+        "price": 699,
+        "image_url": "https://via.placeholder.com/100"
+    },
+    {
+        "id": "40",
+        "title": "Handcrafted Wooden Chess Set",
+        "description": "Luxury chess set made from premium wood, perfect for enthusiasts and collectors.",
+        "category": "Toys & Games",
+        "price": 1799,
+        "image_url": "https://via.placeholder.com/100"
+    }
+]
